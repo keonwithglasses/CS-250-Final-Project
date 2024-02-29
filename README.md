@@ -2,7 +2,7 @@
 
 ## Keon Abbott
 
-Markup: - Sprint Review and Retrospective
-Markup: - Agile Powerpoint Presentation
+* Sprint Review and Retrospective
+* Agile Powerpoint Presentation
 
 CS 250 Project Two
